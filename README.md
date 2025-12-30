@@ -73,7 +73,7 @@ poetry run project
 
 ## Пример работы
 
-
+[![asciicast](https://asciinema.org/a/d9YxYfGpr9cHRiwz8XH7dQQS4.svg)](https://asciinema.org/a/d9YxYfGpr9cHRiwz8XH7dQQS4)
 ---
 
 ## Структура проекта
